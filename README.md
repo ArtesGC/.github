@@ -1,8 +1,6 @@
 # ArtesGC - Comunidade de Apoio a educação social
 
 ### Olá caro entusiasta 👋
- 
-#### Sobre o Site
 
     A ArtesGC foi criada em Fevereiro de 2019 pelo jovem Estudante Nurul GC
     com o intuito de agrupar outros jovens e incentivá-los a partilharem
@@ -27,8 +25,6 @@
 # ArtesGC - Social Education Support Community
 
 ### Hello dear enthusiast 👋
- 
-#### About the Site
 
      ArtesGC was created in February 2019 by the young Student Nurul GC
      in order to group other young people and encourage them to share their knowledge in the most diverse didactic areas.
@@ -52,7 +48,7 @@
 #### Mais Estados - More Status 💻
 
 Contagem de visitantes - Counting visitors \
-![](https://profile-counter.glitch.me/Nurul-GC/count.svg)
+![](https://profile-counter.glitch.me/ArtesGC/count.svg)
 
 #### Perfis sociais - Social profiles 🤓
 
