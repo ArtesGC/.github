@@ -54,6 +54,6 @@ Contagem de visitantes - Counting visitors \
 
 ![Website - ArtesGC](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://artesgc.home.blog/) \
 ![Pagina Facebook -ArtesGC](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/artesgc.home.blog/) \
-![](https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/NurulGC3) \
-![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/artesgc/) \
-![](https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:nuruldecarvalho@gmail.com)
+![Perfil Twitter](https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/NurulGC3) \
+![Pagina Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/artesgc/) \
+![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:nuruldecarvalho@gmail.com)
