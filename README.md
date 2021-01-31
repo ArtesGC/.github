@@ -48,7 +48,7 @@
 #### Mais Estados - More Status 💻
 
 Contagem de visitantes - Counting visitors \
-![](https://profile-counter.glitch.me/ArtesGC/count.svg)
+![counting_visitors](https://profile-counter.glitch.me/ArtesGC/count.svg)
 
 #### Perfis sociais - Social profiles 🤓
 
