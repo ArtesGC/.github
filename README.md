@@ -45,15 +45,15 @@
 
 ---
 
-#### Mais Estados - More Status 💻
+# Mais Estados - More Status 💻
 
 Contagem de visitantes - Counting visitors \
 ![counting_visitors](https://profile-counter.glitch.me/ArtesGC/count.svg)
 
-#### Perfis sociais - Social profiles 🤓
+# Perfis sociais - Social profiles 🤓
 
 [![Website - ArtesGC](img/github-icon.svg)](https://artesgc.github.io/)
-[![Pagina Facebook -ArtesGC](img/fb-icon.svg)](https://www.facebook.com/artesgc.home.blog/) \
-[![Perfil Twitter](img/twitter-icon.svg)](https://twitter.com/NurulGC3)
-[![Pagina Linkedin](img/linkedin-icon.svg)](https://www.linkedin.com/company/artesgc/) \
+[![Pagina Facebook -ArtesGC](img/fb-icon.svg)](https://www.facebook.com/artesgc.home.blog/)
+[![Perfil Twitter](img/twitter-icon.svg)](https://twitter.com/NurulGC3) \
+[![Pagina Linkedin](img/linkedin-icon.svg)](https://www.linkedin.com/company/artesgc/)
 [![Gmail](img/gmail-icon.svg)](mailto:nuruldecarvalho@gmail.com)
