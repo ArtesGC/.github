@@ -72,5 +72,6 @@ Contagem de visitantes - Counting visitors \
 [![Pagina Linkedin](../img/linkedin-icon.svg)](https://www.linkedin.com/company/artesgc/)
 [![Gmail](../img/gmail-icon.svg)](mailto:nuruldecarvalho@gmail.com)
 
+&copy; 2019-2022 Nurul-GC
+    
 </div>
-  
