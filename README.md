@@ -66,11 +66,11 @@ Contagem de visitantes - Counting visitors \
 
 # Social profiles
 
-[![Website - ArtesGC](../img/github-icon.svg)](https://artesgc.github.io/)
-[![Pagina Facebook -ArtesGC](../img/fb-icon.svg)](https://www.facebook.com/artesgc.home.blog/)
-[![Perfil Twitter](../img/twitter-icon.svg)](https://twitter.com/NurulGC3) \
-[![Pagina Linkedin](../img/linkedin-icon.svg)](https://www.linkedin.com/company/artesgc/)
-[![Gmail](../img/gmail-icon.svg)](mailto:nuruldecarvalho@gmail.com)
+[![Website - ArtesGC](./img/github-icon.svg)](https://artesgc.github.io/)
+[![Pagina Facebook -ArtesGC](./img/fb-icon.svg)](https://www.facebook.com/artesgc.home.blog/)
+[![Perfil Twitter](./img/twitter-icon.svg)](https://twitter.com/NurulGC3) \
+[![Pagina Linkedin](./img/linkedin-icon.svg)](https://www.linkedin.com/company/artesgc/)
+[![Gmail](./img/gmail-icon.svg)](mailto:nuruldecarvalho@gmail.com)
 
 &copy; 2019-2022 Nurul-GC
     
